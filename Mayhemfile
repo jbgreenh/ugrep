@@ -1,0 +1,5 @@
+project: jbgreenh/ugrep
+target: ugrep
+
+cmds:
+  - cmd: /ugrep/bin/ugrep 'A' @@
